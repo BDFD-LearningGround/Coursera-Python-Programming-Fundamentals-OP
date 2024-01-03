@@ -7,42 +7,40 @@
  * @FilePath: \3.0-Course-Name_Coursera_Template\README.md
 -->
 
-Descritpion Template
-Quizzes & Assignment Solutions for Entire $(Course Name) on Coursera. Also included a few resources on side that I found helpful.
-
-Common Tag: data-science, python, data-visualization, cousera, assignment-solution, quiz, sql, data-analytics, excel
-
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
 ![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
-![GitHub top language](<https://img.shields.io/github/languages/top/$(github_user)/$(repo_address)?style=flat>)
+![GitHub top language](https://img.shields.io/github/languages/top/BDFD-LearningGround/Coursera-Python-Programming-Fundamentals-OP?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_?style=flat)
-![GitHub language count](<https://img.shields.io/github/languages/count/$(github_user)/$(repo_address)?style=flat>)
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Coursera-Python-Programming-Fundamentals-OP?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>$(Course-NAME{Coursera})[![View My Profile]
+<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" /> -->
 
-## About This Course/Certificate
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Python Programming Fundamentals
 
-About This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce high quality, working style! Check out follow course link if you think it is interested.
+## About This Course
 
-**Course Link:** [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+This introductory course is designed for beginners and individuals with limited programming experience who want to embark on their software development or data science journey using Python. Throughout the course, learners will gain a solid understanding of algorithmic thinking, Python syntax, code testing, debugging techniques, and modular code development--essential skills for a successful career in software engineering, development, or data science.
+
+**Course Link:** [Python Programming Fundamentals](https://www.coursera.org/learn/python-programming-fundamentals/)
 
 ## Course Learn Path
 
 The courses enlisted as follows:
 
-- [x] **C1-**
-- [x] **C2-**
-- [ ] **C3-**
+- [] **C1-Python Programming Fundamentals**
 
 ## Course Description: 1 Course
 
-<img height="27" src="https://img.shields.io/badge/test 1 -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<img height="27" src="https://img.shields.io/badge/test 2 -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<img height="27" src="https://img.shields.io/badge/test 3-Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<br/>
-Data science courses contain math—no avoiding that! This course is designed to teach learners the basic math you will need in order to be successful in almost any data science math course and was created for learners who have basic math skills but may not have taken algebra or pre-calculus. Data Science Math Skills introduces the core math that data science is built upon, with no extra complexity, introducing unfamiliar ideas and math symbols one-at-a-time.
+By the end of this course, you will learn to:
+
+- Gain a stepwise approach to problem-solving using algorithms and programming logic.
+- Apply common functions, conditional statements, and loops to build Python scripts and programs.
+- Work with the VS Code programming environment to enhance coding proficiency.
+- Use testing and debugging strategies to ensure code reliability.
+- Perform logical and mathematical operations on datasets.
+
+In the final week of the course you will apply your new algorithm design and programming skills to a data analysis problem: analyzing heart rate data.
 
 ## Applied Learning Project
 
@@ -50,15 +48,15 @@ Data science courses contain math—no avoiding that! This course is designed to
 
 **Libraries:** Pandas, NumPy
 
-**Projects:** ABC Project Name
+**Projects:** Python Programming Fundamentals
 
 #### Useful Resources
 
-- [Course Link](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Course Link](https://www.coursera.org/learn/python-programming-fundamentals/)
 
 ## Course Certificate
 
-Total Hours: ~13 Hrs
+Total Hours: ~23 Hrs
 
 <div align="center">
 
