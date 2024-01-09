@@ -10,7 +10,6 @@
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
 ![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
 ![GitHub top language](https://img.shields.io/github/languages/top/BDFD-LearningGround/Coursera-Python-Programming-Fundamentals-OP?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Coursera-Python-Programming-Fundamentals-OP?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
