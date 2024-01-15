@@ -31,7 +31,7 @@ The courses enlisted as follows:
 
 ## Course Description: 1 Course
 
-Sponsor University : Duke University
+Sponsor University : Duke University  
 <img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/1.0%20Coursera/Duke%20University-1.png" alt="bdfd" />
 
 Main Instructor:
